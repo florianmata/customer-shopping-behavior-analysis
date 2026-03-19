@@ -42,7 +42,9 @@ The goal is to support data-driven decision-making for marketing, product strate
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+<p align="center">
+  <img src="images/dashboard_screenshot.png" width="700"/>
+</p>
 
 ---
 
